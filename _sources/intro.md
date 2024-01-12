@@ -2,23 +2,14 @@
 
 AI-Learn Insights is a [substack](https://ailearninsights.substack.com/) newsletter and podcast series that provides in-depth review, discussion, and analysis of Artificial Intelligence in Education. 
 
-## Key Topics
+> Our primary focus is Artificial Intelligence and its emerging impact on educational technology innovation, markets and investments, teaching and learning, and educational research. 
 
-Our primary focus is Artificial Intelligence and its emerging impact on educational technology innovation, markets and investments, teaching and learning, and educational research. 
-
-<br><br>
-
-```{image} /images/ailearnquad.jpeg
-:width: 400px
-:align: center
-```
-<br><br>
 
 ## Guiding Themes
 
 ---
 
-AI will reshape the way we teach and learn. AI-Learn Insights delves into this evolution through five guiding themes:
+AI has the potential to reshape the way we teach and learn, to transform educational institutions, and to create new market opportunites. AI-Learn Insights investigates this potential through five guiding themes:
 
 ---
 

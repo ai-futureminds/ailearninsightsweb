@@ -2,10 +2,25 @@
 
 # <font color = "maroon"> Podcast Guests</font>
 
+
+
+## Tristan Denley (confirmed)
+
+```{image} /images/tristandenley.jpg
+:width: 200px
+:align: left
+```
+
+Tristan Denley currently serves as [Deputy Commissioner for Academic Affairs and Innovation](https://completecollege.org/person/tristan-denley/) at the Louisiana Board of Regents. His work uses a data informed approach to implement a wide variety of state-wide initiatives surrounding college completion, stretching from education redesign in a variety of disciplines, to the role of predictive analytics and data mining, cognitive psychology and behavioral economics in higher education. Amongst his most recent work has been the development and implementation of a comprehensive system-scale student success strategy, the Momentum Year, that transforms developmental education and advising. Implementation of the Momentum Year in Georgia increased system-wide 4yr graduation rates by 20%, and by 30% for African American students.
+
+Tristan earned his PhD in Mathematics from Trinity College Cambridge. 
+
+---
+
 ## Patrick Methvin (confirmed)
 
 ```{image} /images/patrickmethvin.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 
@@ -15,22 +30,12 @@ Patrick holds an MBA from the Wharton School, a Master in Educational Leadership
 <br><br>
 ___
 
-## Tristan Denley (confirmed)
 
-```{image} /images/tristandenley.jpg
-:width: 150px
-:align: left
-```
-
-Tristan Denley currently serves as [Deputy Commissioner for Academic Affairs and Innovation](https://completecollege.org/person/tristan-denley/) at the Louisiana Board of Regents. His work uses a data informed approach to implement a wide variety of state-wide initiatives surrounding college completion, stretching from education redesign in a variety of disciplines, to the role of predictive analytics and data mining, cognitive psychology and behavioral economics in higher education. Amongst his most recent work has been the development and implementation of a comprehensive system-scale student success strategy, the Momentum Year, that transforms developmental education and advising. Implementation of the Momentum Year in Georgia increased system-wide 4yr graduation rates by 20%, and by 30% for African American students.
-
-Tristan earned his PhD in Mathematics from Trinity College Cambridge. 
----
 
 ## Michael Taft (confirmed)
 
 ```{image} /images/michaeltaft.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 
@@ -45,7 +50,7 @@ Michael graduated with high honors/Phi Beta Kappa from the University of Texas a
 ## Teresa-Martin-Retortillo Rubio
 
 ```{image} /images/martinretortillo.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 
@@ -57,7 +62,7 @@ Teresa began her professional career at Goldman Sachs as a corporate finance ana
 ## Manoj Kulkarni (confirmed)
 
 ```{image} /images/manojkulkarni.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 Manoj Kulkarni is CEO of Realizeit. He leads all aspects of Realeizit's commercial development, growth agenda and operations globally. Manoj has held senior executive roles for more than 20 years providing transformational leadership in high volume, high growth and global businesses in Education, Technology and Retail sectors.
@@ -69,7 +74,7 @@ Manoj earned his Bachelor in Engineering from India’s College of Engineering, 
 ## Charles Dziuban (confirmed)
 
 ```{image} /images/charlesdziuban.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 
@@ -80,7 +85,7 @@ Charles Dziuban is Director of the Research Initiative for Teaching Effectivenes
 ## Patsy D. Moskal (confirmed)
 
 ```{image} /images/patsymoskal.png
-:width: 150px
+:width: 200px
 :align: left
 ```
 
@@ -93,7 +98,7 @@ She holds a MS in Computer Science and a Doctor of Education (Ed.D) in Curriculu
 ## Anthony Picciano (confirmed)
 
 ```{image} /images/anthonypicciano.jpg
-:width: 150px
+:width: 200px
 :align: left
 ```
 
