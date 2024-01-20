@@ -7,12 +7,15 @@
 ```
 
 ---
+---
 
 ## <font color ="maroon">Guiding Themes</font>
 
 **AI** has the potential to reshape the way we teach and learn, to transform educational institutions, and to create new market opportunites. ***AI-Learn Insights*** investigates this potential through five guiding themes:
 
 ---
+---
+
 
 ### <font color ="green">1: Understanding Effective Learning</font>
 - **Established Principles**: What are established principles of effective learning?
