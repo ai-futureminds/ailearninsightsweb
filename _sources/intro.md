@@ -14,14 +14,14 @@
 
 ---
 
-### <font color ="green">*1: Understanding Effective Learning*</font>
+### <font color ="green">1: Understanding Effective Learning</font>
 - **Established Principles**: What are established principles of effective learning?
 - **Theory to Practice**: What do we know about translating these principles from theory to practice?
 - **Unresolved Questions**: What unresolved questions remain, and which are on the cusp of being answered?
 
 ---
 
-### <font color ="green">*2: Scaling Effective Learning</font>
+### <font color ="green">2: Scaling Effective Learning</font>
 - **Leveraging Resources**: How can we leverage technology, societal values, and organizational structures to scale proven educational methods?
 - **Obstacles and Solutions**: What significant obstacles stand in the way of scaling up, and how might we navigate them?
 

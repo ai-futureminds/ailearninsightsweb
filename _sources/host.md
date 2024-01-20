@@ -12,7 +12,7 @@
 ---
 Alfred Essa is an author, researcher, educator, technology executive, and entrepreneur. 
 
-Alfred graduated with High Honors in Philosophy, Magna Cum Laude from Haverford College. He received M.A. and M.Phil from Yale University, where he also taught in the Directed Studies program.
+Alfred graduated with High Honors in Philosophy, Magna Cum Laude from Haverford College. He received M.A. and M.Phil from Yale University, where he also taught in the Directed Studies program for honors students.
 
 ---
 ---
@@ -39,10 +39,9 @@ Currently, he is the organizer and primary instructor for [Python for Absolute B
 
 ***Technology Executive***
 
-As entrepreneur he is CEO of AI-FutureMinds Inc. 
 
-Previously, Alfred was VP of R&D and Analytics at McGraw-Hill Education, Associate Vice Chancellor and Deputy CIO at Minnesota State Colleges and Universities, and CIO at MIT's Sloan School Management. 
+Alfred has been CIO at MIT's Sloan School of Management, Assoc. Vice Chancellor and Deputy CIO at the Minnesota State Colleges and Universities, Director of Innovation and Analytics at Desire2Learn, and VP of R&D and Analytics at McGraw-Hill Education.
 
+***Enterpreneur***
 
-
-***Entpreneur***
+As entrepreneur he is CEO of AI-FutureMinds Inc, a startup that is applying generative AI to improve teaching and learning.
