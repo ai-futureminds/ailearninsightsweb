@@ -6,7 +6,7 @@
 
 ## Tristan Denley (confirmed)
 
-```{image} /images/tristandenley.jpg
+```{image} /images/speakers/tristandenley.jpg
 :width: 200px
 :align: left
 ```
@@ -21,7 +21,7 @@ Tristan earned his PhD in Mathematics from Trinity College Cambridge.
 
 ## Patrick Methvin (confirmed)
 
-```{image} /images/patrickmethvin.jpg
+```{image} /images/speakers/patrickmethvin.jpg
 :width: 200px
 :align: left
 ```
@@ -30,11 +30,11 @@ Patrick Methvin is the [Director, Postsecondary Success at Bill & Melinda Gates 
 
 Patrick holds an MBA from the Wharton School, a Master in Educational Leadership from the University of Pennsylvania, and a B.A. in Economics and Political Science from the University of North Carolina, where he was a Morehead Scholar.
 
-___
+---
 
 ## Teresa-Martin-Retortillo Rubio (confirmed)
 
-```{image} /images/martinretortillo.jpg
+```{image} /images/speakers/martinretortillo.jpg
 :width: 200px
 :align: left
 ```
@@ -47,18 +47,20 @@ Teresa began her professional career at Goldman Sachs as a corporate finance ana
 
 ## Anthony Picciano (confirmed)
 
-```{image} /images/anthonypicciano.jpg
+```{image} /images/speakers/anthonypicciano.jpg
 :width: 200px
 :align: left
 ```
 
-Anthony G., Picciano is Professor at the City University of New York's Hunter College and Graduate Center, USA. He has also held adminstrative appointments includ that of Senior Vice President and Deputy to the President at Hunter College. He has authored or co-authored 20 books, numerous articles, and edited 10 special journal editions. He was a founder and continues to serve on the Board of Directors of the Online Learning Consortium.
+Anthony G., Picciano is Professor at the City University of New York's Hunter College and Graduate Center, USA. He has also held adminstrative appointments includ that of Senior Vice President and Deputy to the President at Hunter College. 
+
+He has authored or co-authored 20 books, numerous articles, and edited 10 special journal editions. He was a founder and continues to serve on the Board of Directors of the Online Learning Consortium.
 
 ---
 
 ## Michael Taft (confirmed)
 
-```{image} /images/michaeltaft.jpg
+```{image} /images/speakers/michaeltaft.jpg
 :width: 200px
 :align: left
 ```
@@ -67,13 +69,13 @@ Michael Taft is CEO and co-founder of ZogoTech. ZogoTech creates solutions that 
 
 Michael graduated with high honors/Phi Beta Kappa from the University of Texas at Austin with degrees in Computer Science and Art History.
 
-
 ---
-<br><br>
+---
+---
 
 ## Patsy D. Moskal (confirmed)
 
-```{image} /images/patsymoskal.png
+```{image} /images/speakers/patsymoskal.png
 :width: 200px
 :align: left
 ```
@@ -86,7 +88,7 @@ She holds a MS in Computer Science and a Doctor of Education (Ed.D) in Curriculu
 
 ## Manoj Kulkarni (confirmed)
 
-```{image} /images/manojkulkarni.jpg
+```{image} /images/speakers/manojkulkarni.jpg
 :width: 200px
 :align: left
 ```
@@ -98,7 +100,7 @@ Manoj earned his Bachelor in Engineering from India’s College of Engineering, 
 
 ## Charles Dziuban (confirmed)
 
-```{image} /images/charlesdziuban.jpg
+```{image} /images/speakers/charlesdziuban.jpg
 :width: 200px
 :align: left
 ```
