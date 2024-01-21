@@ -44,4 +44,4 @@ Alfred has been CIO at [MIT's Sloan School of Management](https://mitsloan.mit.e
 
 ***Enterpreneur***
 
-As entrepreneur he is CEO of AI-FutureMinds Inc, a startup that is applying generative AI to improve teaching and learning for adult learners.
+As entrepreneur he is CEO of [AI-FutureMinds Inc](https://ai-futureminds.github.io/pythonfabwebsite/intro.html), a startup that is applying generative AI to improve teaching and learning for adult learners.
